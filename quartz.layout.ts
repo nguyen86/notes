@@ -20,32 +20,39 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.TableOfContents(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.DesktopOnly(Component.TableOfContents()),
     // Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.Links()),
     // Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Search(),
+    Component.Darkmode(),
     Component.Graph(),
     Component.Backlinks(),
+    Component.DesktopOnly(Component.Links({
+      title: "Những quyển sách khác", // apply no filter function, every file and folder will visible
+    })),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(), 
+    Component.ArticleTitle(), 
+    Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes()),
+    Component.TableOfContents(),
+    // Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [],
 }

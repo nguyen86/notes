@@ -6,9 +6,9 @@ name: Build and Deploy
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
@@ -40,20 +40,20 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-              
+
       - run: npm ci
       - run: chmod -R a+x node_modules
       # - run: npm install -g quartz
 
-      # - name: Check types and style
-      #   run: npm run check
+      - name: Check types and style
+        run: npm run check
 
       - name: Test
         run: npm test
 
-      # - name: Ensure Quartz builds, check bundle info
-      #   run: npx quartz build --bundleInfo
-        
+      - name: Ensure Quartz builds, check bundle info
+        run: npx quartz build --bundleInfo
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

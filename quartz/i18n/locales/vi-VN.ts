@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Tìm kiếm thông tin",
     },
     tableOfContents: {
-      title: "Những mục chính",
+      title: "Nội dung chính",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `đọc trong ${minutes} phút`,
@@ -69,7 +69,7 @@ export default {
     folderContent: {
       folder: "Thư Mục",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 bài trong thư mục này." : `${count} bài trong thư mục này.`,
+        count === 1 ? "Có 1 bài trong thư mục này." : `Có ${count} bài trong thư mục này.`,
     },
     tagContent: {
       tag: "Thẻ",

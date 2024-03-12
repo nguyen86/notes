@@ -52,16 +52,16 @@ Nếu bạn vẫn muốn nuôi bò, vẫn muốn “ăn mày quá khứ” thì 
 > - _La Opinion (Los Angeles)_
 
 > “Tác phẩm này của TS. Cruz đã có một ảnh hưởng sâu sắc đến đời tôi và khuyến khích tôi thành lập công ty mà ngày nay đang hoạt động tại nhiều quốc gia. Cám ơn ông đã dành thời gian viết những cuốn sách thực sự gây cảm hứng giúp hàng ngàn người đạt được những thành tựu lớn lao nhất đời họ.”
-> 
+>
 > - _Wenceslao Casares, Nhà sáng lập của Patagon.com_
 
 > “Với tư cách người điều hành một tập đoàn quốc tế, việc cân bằng cuộc sống không phải lúc nào cũng dễ dàng. Tôi đọc _Ngày xưa có một con bò…_ đúng lúc cần phải xây dựng một cuộc sống hài hòa hơn. Những kiến thức uyên thâm của TS. Cruz đã giúp tôi loại bỏ những lời biện bạch đang kiềm hãm mình. Ngày nay, tôi sống một cuộc sống lành mạnh hơn, dành thời gian cho gia đình nhiều hơn, và tôi vẫn rất thành công trong sự nghiệp.”
-> 
+>
 > - _Hannes Hunschofsky, chủ tịch Tập đoàn Hoerbiger của Châu Mỹ_
 
 > “Những… ý tưởng của Ts. Cruz không chỉ nhắm vào việc làm thế nào để thành công ở Mỹ, mà còn thành công ở bất cứ nơi đâu.”
-> 
-> - _Don Francisco,_Giám Đốc Univision TV_
+>
+> - _Don Francisco,\_Giám Đốc Univision TV_
 
 Xin dành tặng cho Shirley, người vợ tuyệt vời của tôi. Bằng tình yêu và sự hỗ trợ vô điều kiện, cô ấy đã biến mọi thứ trở nên dễ dàng.
 
@@ -92,9 +92,9 @@ _MARK VICTOR HANSEN_
 # LỜI GIỚI THIỆU
 
 > _“Ngày xưa có một con bò…_ là một cuốn sách hay… dành cho người… khác.”
-> 
+>
 > Tôi đã từng nghĩ vậy cho đến khi đụng phải những con bò của chính mình. Tôi là một người có năng lực, thành công đúng mực và quy củ một cách khắt khe. Tôi không cần những lời biện bạch để né việc. Cho đến nay, tôi cứ yên chí thuyết phục chính mình và cả những người khác tin rằng những lý do tôi không làm việc này hay việc kia đều có tính logic chặt chẽ. Khi đọc cuốn sách này, tôi nhận ra rằng những lý do đó, không hề có ngoại lệ nào, đều đang che đậy một _con bò_ ở tầng sâu hơn. Đúng vậy, tôi có những _con bò_ ở nhiều tầng. Đằng sau tất cả những _con bò_ trông có vẻ thông thái kia là nỗi lo sợ. Một điều bây giờ tôi mới biết: tôi không muốn nỗi sợ thay tôi quyết định bất cứ chuyện gì. Giờ đây, khi nghe thấy một lời biện bạch, tôi sẽ suy nghĩ thấu đáo hơn để tìm nỗi sợ hãi và nếu đúng là có nỗi sợ đó, tôi biết mình nên đối mặt với nó - ngay lập tức!
-> 
+>
 > -_Margaret, Dayton, Ohio_
 
 ---
@@ -138,4 +138,5 @@ Câu chuyện ẩn dụ bất chấp thời gian về _con bò_ minh họa cho c
 Tôi có một niềm hy vọng sâu sắc là mỗi độc giả đều tìm thấy cho mình những bài học riêng từ câu chuyện này. Tuy nhiên, nếu đọc đến cuối chuyện mà bạn không phát hiện được _con bò_ nào của mình thì… hừm, _đó_ chính là _con bò_ của bạn!
 
 ---
+
 Bắt đầu: [[1. CHUYỆN NGỤ NGÔN VỀ MỘT CON BÒ]]
