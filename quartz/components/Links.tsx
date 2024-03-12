@@ -21,11 +21,11 @@ export default ((userOpts?: Partial<Options>) => {
       <div class={`links ${displayClass ?? ""}`}>
         <h3>{opts.title}</h3>
         <ul>
-          {/* <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/notes">Notes</a></h3>
-            <i>where I share what I've learned</i>
-          </li>
           <li>
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/nxcmcb">Ngày xưa có một con bò</a></h3>
+            <i>chuyện kể ngày xưa</i>
+          </li>
+          {/* <li>
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/life">Life</a></h3>
             <i>where I write about my adventures</i>
           </li>
@@ -35,8 +35,8 @@ export default ((userOpts?: Partial<Options>) => {
           </li>
           <li>
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/projects">Projects</a></h3>
-            <i>cool things I've made</i>
-          </li> */}
+            <i>cool things I've made</i> 
+          </li>*/}
         </ul>
       </div>
     )
