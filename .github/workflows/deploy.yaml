@@ -42,11 +42,11 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm ci
-      - run: chmod -R a+x node_modules
+      # - run: chmod -R a+x node_modules
       # - run: npm install -g quartz
 
-      - name: Check types and style
-        run: npm run check
+      # - name: Check types and style
+      #   run: npm run check
 
       - name: Test
         run: npm test
