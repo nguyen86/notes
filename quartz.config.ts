@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ghi chú của Nguyên",
+    pageTitle: "Sách hay 📚",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
