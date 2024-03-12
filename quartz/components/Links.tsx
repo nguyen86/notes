@@ -22,8 +22,8 @@ export default ((userOpts?: Partial<Options>) => {
         <h3>{opts.title}</h3>
         <ul>
           <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/nxcmcb">Ngày xưa có một con bò</a></h3>
-            <i>chuyện kể ngày xưa</i>
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="notes/NXCMCB">Ngày xưa có một con bò</a></h3>
+            <i>chuyện kể ngày nay</i>
           </li>
           {/* <li>
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/life">Life</a></h3>

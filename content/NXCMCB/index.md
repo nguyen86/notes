@@ -51,31 +51,21 @@ Nếu bạn vẫn muốn nuôi bò, vẫn muốn “ăn mày quá khứ” thì 
 >
 > - _La Opinion (Los Angeles)_
 
-“Tác phẩm này của TS. Cruz đã có một ảnh hưởng sâu sắc đến đời tôi và khuyến khích tôi thành lập công ty mà ngày nay đang hoạt động tại nhiều quốc gia. Cám ơn ông đã dành thời gian viết những cuốn sách thực sự gây cảm hứng giúp hàng ngàn người đạt được những thành tựu lớn lao nhất đời họ.”
+> “Tác phẩm này của TS. Cruz đã có một ảnh hưởng sâu sắc đến đời tôi và khuyến khích tôi thành lập công ty mà ngày nay đang hoạt động tại nhiều quốc gia. Cám ơn ông đã dành thời gian viết những cuốn sách thực sự gây cảm hứng giúp hàng ngàn người đạt được những thành tựu lớn lao nhất đời họ.”
+> 
+> - _Wenceslao Casares, Nhà sáng lập của Patagon.com_
 
-- _Wenceslao Casares,_
+> “Với tư cách người điều hành một tập đoàn quốc tế, việc cân bằng cuộc sống không phải lúc nào cũng dễ dàng. Tôi đọc _Ngày xưa có một con bò…_ đúng lúc cần phải xây dựng một cuộc sống hài hòa hơn. Những kiến thức uyên thâm của TS. Cruz đã giúp tôi loại bỏ những lời biện bạch đang kiềm hãm mình. Ngày nay, tôi sống một cuộc sống lành mạnh hơn, dành thời gian cho gia đình nhiều hơn, và tôi vẫn rất thành công trong sự nghiệp.”
+> 
+> - _Hannes Hunschofsky, chủ tịch Tập đoàn Hoerbiger của Châu Mỹ_
 
-_Nhà sáng lập của Patagon.com_
+> “Những… ý tưởng của Ts. Cruz không chỉ nhắm vào việc làm thế nào để thành công ở Mỹ, mà còn thành công ở bất cứ nơi đâu.”
+> 
+> - _Don Francisco,_Giám Đốc Univision TV_
 
-“Với tư cách người điều hành một tập đoàn quốc tế, việc cân bằng cuộc sống không phải lúc nào cũng dễ dàng. Tôi đọc _Ngày xưa có một con bò…_ đúng lúc cần phải xây dựng một cuộc sống hài hòa hơn. Những kiến thức uyên thâm của TS. Cruz đã giúp tôi loại bỏ những lời biện bạch đang kiềm hãm mình. Ngày nay, tôi sống một cuộc sống lành mạnh hơn, dành thời gian cho gia đình nhiều hơn, và tôi vẫn rất thành công trong sự nghiệp.”
+Xin dành tặng cho Shirley, người vợ tuyệt vời của tôi. Bằng tình yêu và sự hỗ trợ vô điều kiện, cô ấy đã biến mọi thứ trở nên dễ dàng.
 
-_-Hannes Hunschofsky, chủ tịch Tập đoàn Hoerbiger của Châu Mỹ_
-
-“Những… ý tưởng của Ts. Cruz không chỉ nhắm vào việc làm thế nào để thành công ở Mỹ, mà còn thành công ở bất cứ nơi đâu.”
-
-- _Don Francisco,_
-
-_Giám Đốc Univision TV_
-
-_Xin dành tặng cho Shirley, người vợ tuyệt vời của tôi. _
-
-_Bằng tình yêu và sự hỗ trợ vô điều kiện, cô ấy đã biến mọi thứ trở nên_
-
-_dễ dàng._
-
-_Xin dành tặng cho các con yêu quí của tôi, Richard, Mark, và Daniel._
-
-_Trong tất cả các danh hiệu và tước vị mà tôi được trao tặng - giáo sư, doanh nhân, nhà khoa học, tác giả - tôi thích danh hiệu “Bố” nhất._
+Xin dành tặng cho các con yêu quí của tôi, Richard, Mark, và Daniel. Trong tất cả các danh hiệu và tước vị mà tôi được trao tặng - giáo sư, doanh nhân, nhà khoa học, tác giả - tôi thích danh hiệu “Bố” nhất.
 
 # LỜI NÓI ĐẦU
 
@@ -101,25 +91,19 @@ _MARK VICTOR HANSEN_
 
 # LỜI GIỚI THIỆU
 
-_“Ngày xưa có một con bò…_ là một cuốn sách hay… dành cho người…
+> _“Ngày xưa có một con bò…_ là một cuốn sách hay… dành cho người… khác.”
+> 
+> Tôi đã từng nghĩ vậy cho đến khi đụng phải những con bò của chính mình. Tôi là một người có năng lực, thành công đúng mực và quy củ một cách khắt khe. Tôi không cần những lời biện bạch để né việc. Cho đến nay, tôi cứ yên chí thuyết phục chính mình và cả những người khác tin rằng những lý do tôi không làm việc này hay việc kia đều có tính logic chặt chẽ. Khi đọc cuốn sách này, tôi nhận ra rằng những lý do đó, không hề có ngoại lệ nào, đều đang che đậy một _con bò_ ở tầng sâu hơn. Đúng vậy, tôi có những _con bò_ ở nhiều tầng. Đằng sau tất cả những _con bò_ trông có vẻ thông thái kia là nỗi lo sợ. Một điều bây giờ tôi mới biết: tôi không muốn nỗi sợ thay tôi quyết định bất cứ chuyện gì. Giờ đây, khi nghe thấy một lời biện bạch, tôi sẽ suy nghĩ thấu đáo hơn để tìm nỗi sợ hãi và nếu đúng là có nỗi sợ đó, tôi biết mình nên đối mặt với nó - ngay lập tức!
+> 
+> -_Margaret, Dayton, Ohio_
 
-khác.”
-
-Tôi đã từng nghĩ vậy cho đến khi đụng phải những con bò của chính mình. Tôi là một người có năng lực, thành công đúng mực và quy củ một cách khắt khe. Tôi không cần những lời biện bạch để né việc. Cho đến nay, tôi cứ yên chí thuyết phục chính mình và cả những người khác tin rằng những lý do tôi không làm việc này hay việc kia đều có tính logic chặt chẽ. Khi đọc cuốn sách này, tôi nhận ra rằng những lý do đó, không hề có ngoại lệ nào, đều đang che đậy một _con bò_ ở tầng sâu hơn. Đúng vậy, tôi có những _con bò_ ở nhiều tầng. Đằng sau tất cả những _con bò_ trông có vẻ thông thái kia là nỗi lo sợ. Một điều bây giờ tôi mới biết: tôi không muốn nỗi sợ thay tôi quyết định bất cứ chuyện gì. Giờ đây, khi nghe thấy một lời biện bạch, tôi sẽ suy nghĩ thấu đáo hơn để tìm nỗi sợ hãi và nếu đúng là có nỗi sợ đó, tôi biết mình nên đối mặt với nó - ngay lập tức!
-
-_-Margaret, Dayton, Ohio_
-
-\*
-
-- \*
+---
 
 Cũng như các họa sĩ hay nhạc sĩ thường lấy cảm hứng từ tự nhiên và môi trường xung quanh, các tác giả - đặc biệt trong lĩnh vực phát triển cá nhân - lấy cảm hứng từ việc giao tiếp với người khác.\*
 
 Một lần nọ, nhiều năm về trước, tôi đã có một buổi thuyết trình hoàn toàn căn cứ trên một lời trích dẫn của Albert Einstein mà tôi nghe được trong một buổi ký tặng sách. Theo một nghĩa nào đó, những khối vàng thô này hoạt động như một chất xúc tác khuấy động tinh chất sáng tạo trong nó. Đôi khi tất cả những gì bạn cần chỉ là một từ hay một ý tưởng, và cả một chương sách sẽ định hình trong đầu bạn.
 
-Tôi luôn rất may mắn vì khi người ta nghe tôi là chuyên gia viết sách về vấn đề phát triển cá nhân, họ thường có khuynh hướng kể cho tôi nghe về những cuốn sách hay các tác giả đã gây xúc động cho họ hay mang lại cho họ nhiều cảm
-
-hứng. Những người khác thì kể với tôi về những câu chuyện họ yêu thích, những giai thoại hay kinh nghiệm mà họ tâm đắc. Dĩ nhiên tất cả những điều này là một nguồn ý tưởng vô tận cho công việc của tôi.
+Tôi luôn rất may mắn vì khi người ta nghe tôi là chuyên gia viết sách về vấn đề phát triển cá nhân, họ thường có khuynh hướng kể cho tôi nghe về những cuốn sách hay các tác giả đã gây xúc động cho họ hay mang lại cho họ nhiều cảm hứng. Những người khác thì kể với tôi về những câu chuyện họ yêu thích, những giai thoại hay kinh nghiệm mà họ tâm đắc. Dĩ nhiên tất cả những điều này là một nguồn ý tưởng vô tận cho công việc của tôi.
 
 Thật ra, vài năm trước trên một chuyến bay từ New York đến Buenos Aires, lần đầu tiên tôi nghe câu chuyện hấp dẫn về _con bò_ có vẻ tầm thường này. Tôi nghe câu chuyện ấy từ một người phụ nữ rất khả ái, mà thật may mắn cô ấy lại ngồi bên cạnh tôi. Những chuyến bay đêm như vậy thường được lên lịch để cất cánh từ sân bay Kennedy ở New York vào khoảng bảy giờ tối, để vào lúc nửa đêm thì bạn dùng xong bữa tối, ăn tráng miệng, xem xong một bộ phim đầu tiên và còn bay thêm cả năm tiếng đồng hồ dài dằng dặc nữa.
 
@@ -135,9 +119,7 @@ Vậy nên tôi đã quyết định chép ra giấy toàn bộ câu chuyện bi
 
 _Ngày xưa có một con bò…_ đã được ra đời như thế đó.
 
-Tôi khám phá ra một cách say sưa và phơi bày ra tất cả những thách thức và cơ hội được thể hiện trong sự ẩn dụ tuyệt vời này. Háo hức muốn biết phản ứng từ độc giả và không thể chờ đợi quá trình xuất bản sách lâu lắc, tôi quyết định đưa ấn bản đầu tiên của cuốn sách này lên mạng dưới dạng e-book bằng tiếng Tây Ban Nha. Tôi nghĩ rằng đây là cách nhanh nhất để biết được phản ứng của
-
-độc giả. Kết quả thật đáng kinh ngạc một cách tuyệt vời. Trong vòng chưa đầy bốn tháng, đã có hơn 250.000 lượt người từ hơn 100 quốc gia tải cuốn sách về.
+Tôi khám phá ra một cách say sưa và phơi bày ra tất cả những thách thức và cơ hội được thể hiện trong sự ẩn dụ tuyệt vời này. Háo hức muốn biết phản ứng từ độc giả và không thể chờ đợi quá trình xuất bản sách lâu lắc, tôi quyết định đưa ấn bản đầu tiên của cuốn sách này lên mạng dưới dạng e-book bằng tiếng Tây Ban Nha. Tôi nghĩ rằng đây là cách nhanh nhất để biết được phản ứng của độc giả. Kết quả thật đáng kinh ngạc một cách tuyệt vời. Trong vòng chưa đầy bốn tháng, đã có hơn 250.000 lượt người từ hơn 100 quốc gia tải cuốn sách về.
 
 Tất nhiên ý định ban đầu của tôi không chỉ là cho người ta tải về. Cái tôi muốn là người ta thực sự đọc cuốn sách đó. Vậy nên tôi tiến hành thêm một bước nữa là gửi e-mail cho những người đã tải cuốn sách. Tuy nhiên, tôi không hỏi họ đã đọc cuốn sách đó chưa, vì tôi thừa biết câu trả lời thường là “rồi” ngay cả khi họ chỉ mới đọc lướt qua trang bìa hoặc chỉ đọc sơ. Thay vì thế, tôi hỏi họ đã giải phóng mình ra khỏi bất kỳ _“con bò”_ nào trong cuộc sống của họ chưa. (Tôi biết là lúc này bạn chẳng hiểu tôi nói gì, nhưng bạn sẽ biết ngay thôi.)
 

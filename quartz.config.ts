@@ -10,6 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "nguyen86.github.io/notes",
+    locale: "vi-VN",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
