@@ -34,18 +34,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.Graph(),
     Component.Backlinks(),
-    Component.DesktopOnly(Component.Links({
-      title: "Những quyển sách khác", // apply no filter function, every file and folder will visible
-    })),
+    Component.DesktopOnly(
+      Component.Links({
+        title: "Những quyển sách khác", // apply no filter function, every file and folder will visible
+      }),
+    ),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(), 
-    Component.ArticleTitle(), 
-    Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
