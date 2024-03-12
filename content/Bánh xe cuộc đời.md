@@ -2,7 +2,7 @@
 title: Bánh xe cuộc đời
 draft: false
 tags:
-  - example-tag
+  - banh-xe-cuoc-doi
 ---
 
 # Tiền/tài sản
