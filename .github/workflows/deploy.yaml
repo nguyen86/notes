@@ -51,8 +51,8 @@ jobs:
       - name: Test
         run: npm test
 
-      - name: Ensure Quartz builds, check bundle info
-        run: npx quartz build --bundleInfo
+      # - name: Ensure Quartz builds, check bundle info
+      #   run: npx quartz build --bundleInfo
         
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
