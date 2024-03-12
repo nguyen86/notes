@@ -12,11 +12,14 @@ import {
 type OrderEntries = "sort" | "filter" | "map"
 
 export interface Options {
-  title: string
+  title?: string
   folderDefaultState: "collapsed" | "open"
   folderClickBehavior: "collapse" | "link"
   useSavedState: boolean
-  hidden?: [string]
+  sortFn: (a: FileNode, b: FileNode) => number
+  filterFn: (node: FileNode) => boolean
+  mapFn: (node: FileNode) => void
+  order: OrderEntries[]
 }
 
 type DataWrapper = {
