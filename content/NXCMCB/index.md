@@ -45,7 +45,7 @@ Có hàng ngàn, hàng vạn loại bò đang chi phối, hạn chế sức bậ
 
 Nếu bạn vẫn muốn nuôi bò, vẫn muốn “ăn mày quá khứ” thì có lẽ cuốn sách này không dành cho bạn. Cuốn sách này chỉ dành cho những người đang nuôi bò và mong muốn được tiêu diệt con bò của chính mình.
 
-==**Hãy sống một cuộc sống Không-Có-Bò!**==
+**==Hãy sống một cuộc sống Không-Có-Bò!==**
 
 > “Các tác phẩm và những buổi thuyết trình của TS. Camilo Cruz đã làm thay đổi cuộc đời của nhiều người. Ông đã giúp cho nhiều người phát triển sức mạnh và hướng dẫn họ cải thiện chất lượng cuộc sống”
 >
