@@ -11,7 +11,11 @@ const config: QuartzConfig = {
     pageTitle: "Sách hay 📚",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'umami', host: 'eu.umami.is', websiteId: '1cc174c5-066f-48f2-a078-f6a46aabe0a2' },
+    analytics: {
+      provider: "umami",
+      host: "eu.umami.is",
+      websiteId: "1cc174c5-066f-48f2-a078-f6a46aabe0a2",
+    },
     baseUrl: "nguyen86.github.io/notes",
     locale: "vi-VN",
     ignorePatterns: ["private", "templates", ".obsidian"],
