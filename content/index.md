@@ -18,3 +18,5 @@ tags:
 - **Giá bìa:** 46.000 đồng
 
 ---
+
+[[Câu Chuyện Cây Bút]]
