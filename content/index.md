@@ -20,3 +20,4 @@ tags:
 ---
 
 [[Câu Chuyện Cây Bút]]
+[[Tài sản và tiêu sản]]

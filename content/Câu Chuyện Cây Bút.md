@@ -3,8 +3,8 @@
 - “Và nếu một chú chó con vào phòng này, chúng sẽ làm gì với nó?”
 - “Nó sẽ cắn cây bút.”
 - “Vậy chú chó con có coi thứ này là một cái bút không?”
-   - “Không, chúng xem nó như một món đồ chơi để gặm.”
-   - “Vậy ai đúng, con người hay con chó? Thứ này thực sự là một cây bút, hay nó thực sự là một món đồ chơi để gặm? ”
+- “Không, chúng xem nó như một món đồ chơi để gặm.”
+- “Vậy ai đúng, con người hay con chó? Thứ này thực sự là một cây bút, hay nó thực sự là một món đồ chơi để gặm? ”
 - “Cả hai đều đúng; đối với con người, đó là một cái bút và đối với con chó, đó là một món đồ chơi để nhai.”
 
 > [!abstract] Kết luận 01
