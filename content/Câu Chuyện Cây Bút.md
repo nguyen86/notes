@@ -20,8 +20,8 @@
 > Vậy đằng nào cũng phải gieo, đằng nào cũng phải gán, hãy gán những điều tốt đẹp nhất mà mình muốn họ trở thành ^^
 
 - “Chà, tôi cho rằng tại thời điểm đó không phải là một. Nó chỉ là một trong hai loại có sẵn. Nếu con người quay trở lại phòng, thứ này sẽ biến thành một cây bút. Nếu con chó quay trở lại phòng, nó sẽ biến thành một món đồ chơi nhai. Nếu cả hai cùng quay vào phòng cùng một lúc, thì nó sẽ biến thành cả hai. Và tại thời điểm đó, tôi đoán có hai thực tế khác nhau đang diễn ra cùng một lúc, trong cùng một căn phòng: thực tại của con người và thực tế của loài chó.”
- - “Tốt. Vì vậy, nếu tôi thấy thứ này là một cây bút, thì nó đến từ phía bên của cây bút hay nó đến từ phía tôi? “
- - “Chà, tôi đoán nó phải đến từ phía bạn. Nếu chiếc bút đến từ phía bên của chiếc bút, thì con chó sẽ xem nó như một chiếc bút, nhưng chúng thì không. “
+   - “Tốt. Vì vậy, nếu tôi thấy thứ này là một cây bút, thì nó đến từ phía bên của cây bút hay nó đến từ phía tôi? “
+   - “Chà, tôi đoán nó phải đến từ phía bạn. Nếu chiếc bút đến từ phía bên của chiếc bút, thì con chó sẽ xem nó như một chiếc bút, nhưng chúng thì không. “
 
 > [!Kết luận 03] > **MỌI VIỆC XUẤT PHÁT TỪ MÌNH, từ tâm thức của mình.** 
 > Bạn thấy đó trong cuộc sống việc nhìn thấy cơ hội, thách thức, khó khăn, thuận lợi đều đến từ chúng ta, chúng ta là chủ thể nên điều đó từ những suy nghĩ, lời nói và hành động của chính mình. Bạn hãy chịu trách nhiệm 100% về chính cuộc sống của mình, chúng ta hãy dừng than phiền đổi lỗi, trách móc cho ngoại cảnh mà hãy dũng cảm chịu trách nhiệm 100% về chính mình, về cuộc đời của mình.
