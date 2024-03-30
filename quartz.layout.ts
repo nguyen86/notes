@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      Youtube: "https://www.youtube.com/channel/UCnCWjodIPj9JUDFdgCaL4LA",
-      Facebook: "facebook.com/pinkyhongphuong",
+      Youtube: "https://www.youtube.com",
+      Facebook: "facebook.com",
     },
   }),
 }

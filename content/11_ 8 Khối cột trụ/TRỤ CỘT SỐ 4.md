@@ -1,0 +1,31 @@
+---
+title: 1484
+date: 2022-01-28 21:22:53
+draft: true
+tags:
+  - hai-ngan
+  - text
+layout: post
+---
+
+TRỤ CỘT SỐ 4
+Nghệ thuật của Inviting và Prospecting.
+Thoải mái khi học về inviting và prospecting. Giờ các bạn cần hiểu rằng mình không cần phải là chuyên gia chuyên nghiệp, bạn đang ở trong hành trình này, network marketing, Qnet. Khi bạn phải đối mặt với con người hàng ngày, bạn đều phải gọi điện thoại, bạn phải mời mọi người đến nhà của bạn để làm prensentation, bạn phải mời họ đến khách sạn để xem các bản kế hoạch, bạn chạm mặt mọi người ở khắp nơi. Nếu bạn không biết cách nói chuyện thì có thể kinh doanh này không phù hợp với bạn đâu, cho nên bạn phải thay đổi.
+Có nhiều người nói với tôi rằng: “Ôi ! Padman, tôi rất là thích networking nhưng tôi ngại lắm” Đừng xấu hổ. Nếu mà bạn tiếp tục xấu hổ bạn sẽ nghèo đói. Vậy nên hãy tỉnh dậy đi.
+Nghệ thuật của việc INVITING (MỜI) và PROSPECTING (ĐÁNH GIÁ) đối tác tiềm năng. Ý nghĩa từ ngày bắt nguồn từ ngày xưa, người đi tìm vàng gọi là prospecting. Họ đi với mục tiêu tìm vàng, cũng giống như chúng ta, chúng ta đang muốn tìm nhiều người hơn, có tiềm năng hơn để sign up vào Qnet. Vậy inviting có nghĩa là mời một ai đó đến xem bài thuyết trình lần đầu tiên, đúng không ? Mời họ đến khách sạn để ở đấy có các UL của bạn, vài trăm người ấy.
+Có rất nhiều cách để làm nó nhưng tôi làm nó theo 1 cách rất tự nhiên. TÙY THUỘC VÀO NGƯỜI BẠN ĐANG MỜI.
+Có nhiều người hỏi tôi: “Padman, hãy dạy tôi cái cách thật chuyên nghiệp để invite, cái cách mời chuyên nghiệp”. Có cách chuyên nghiệp và cách không chuyên nghiệp. Chia thành 2 phần.
+Cách chuyên nghiệp dựa vào người mà tôi mời. Nếu tôi mời một người mà tôi không biết ở trong coldzone (nói ở cột trụ 3), tôi nhấc máy và nói:
+
+- Chào, còn nhớ tôi không ? Chúng ta đã gặp nhau rồi.
+- John, tôi không biết chúng ta có thể cùng nhau uống 1 cốc cà phê được không ?
+- Bởi vì tôi có 1 kinh doanh rất là hay và tôi muốn xem ý kiến của bạn. Nếu mà bạn muốn thì chúng ta cùng gặp nhau.
+- Ngày nào tốt cho bạn, thứ 2 hay thứ 4 ?
+  Mỗi lần tôi mời, tôi đều mời họ trong sự lựa chọn. Bởi vì, trí não con người, nếu tôi bảo bạn hãy gặp nhau vào thứ 2, bạn sẽ nói: “ Không, tôi bận”, thứ 3: “tôi bận”, thứ 4: “tôi bận”, thứ 5: “tôi bận”, bạn sẽ bị mắc kẹt. Vậy nên ta làm gì ? Chúng ta cho họ sự lựa chọn: “Ngày nào, thứ 2 hay thứ 4? ”. Điều đó kích thích não bộ của họ, bắt họ phải chọn. Nó hiệu quả với tôi.
+  Vậy invite là sao ? Chúng ta đang mời họ đến để xem bản thuyết trình đúng không ạ? Không phải chúng ta đang presentation trong lúc chúng ta mời họ đâu. Đây chỉ là mời thôi. Bạn phải là chuyên gia, bạn đã từng mời bạn đến tiệc sinh nhật bạn, tiệc sinh nhật của con bạn, đến các bữa tiệc. Thậm chí bạn đã mời những người đến nhà bạn chỉ để xem phim. Bạn biết cách mời mà, nhưng bây giờ bạn mời họ trong 1 kinh doanh quan trọng. Vậy nên, chúng ta cầm điện thoại lên và nói:
+- Tôi, Padman đây. Chúng ta gặp nhau uống cà phê nhé
+- Tại sao, gặp để làm gì ?
+- Trời ơi, bạn không tin được đâu nhưng tôi vừa gặp 1 cái kinh doanh tuyệt vời lắm và tôi rất hào hứng với nó, và cái tên đầu tiên tôi nghĩ đến chính là bạn. Vậy nên hãy cho tôi 40 phút. Nếu mà bạn thích những gì bạn nghe thấy thì chúng ta cùng tìm hiểu tiếp. Nếu bạn không thích, cũng không sao cả.
+  Tôi không có 1 kỹ năng đặc biệt nào cả. Vì tôi đặt chính bản thân mình vào vị trí của đối tác. Vậy nên hãy luôn đối xử với họ như cách bạn muốn được đối xử. Đừng có gọi điện cho họ rồi bảo là: “Trời ơi, bây giờ bạn phải đến, tuyệt vời lắm! Đó là networking, phải mua sản phẩm,…” Thôi đừng, đừng cho nhiều thông tin như thế. Bạn đang mời cơ mà.
+  Vậy nên có rất nhiều kỹ thuật ngoài kia, nếu bạn nói với 1 người bạn tôn trọng, họ lớn tuổi hơn, thành công hơn thì chúng ta gọi như thế nào. Nhấc điện thoại lên:
+- Ngài à, nếu ngài không phiền thì tôi cần 1 chút thời gian. Tôi có thể đến văn phòng và gặp ngài được không ? Bởi vì tôi gặp 1 cái kinh doanh tuyệt vời này lắm và tôi muốn xin ý kiến của ngài.
